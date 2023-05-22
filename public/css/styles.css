@@ -1,0 +1,7 @@
+/******DEFAULTS******/
+img.non-responsive {
+  width: auto;
+}
+body {
+  background: red;
+}
